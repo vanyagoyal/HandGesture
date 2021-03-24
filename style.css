@@ -1,0 +1,43 @@
+#head {
+    color:navy;
+    font-family: 'Redressed', cursive;
+    font-size: 50px;
+    width:fit-content;
+    padding:20px;
+}
+span {
+    font-size:30px;
+    color:aquamarine;
+}
+body {
+    background-color: rgb(243, 88, 140);
+    border:aqua 5px solid;
+    border-radius: 30px;
+}
+h3 {
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.labels {
+    margin-top: 10px;
+    padding:5px;
+    font-size: 15px;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#live , #result {
+    width:350px;
+    height:300px;
+    border:3px dashed lightgreen;
+}
+.obj_name {
+    font-size: 40px;
+}
+.icon {
+    font-size:45px;
+}
+button {
+    font-size: 20px;
+    width:fit-content;
+    padding: 3px;
+}
